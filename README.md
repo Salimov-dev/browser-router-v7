@@ -19,4 +19,5 @@
 21:25 Делаем активным пункт меню   
 24:10 Делам PrivateRoute   
 26:40 Конец   
-   
+      
+![image](https://github.com/user-attachments/assets/3edcc58b-505f-4b7d-950a-5cf27b1e569d)
